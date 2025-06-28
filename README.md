@@ -8,4 +8,6 @@ I am the maintainer of the following repository:
 
 I also maintain a knowledge base in the organization [Rememberable](https://github.com/Rememberable), and a knowledge base on the [website](https://klenin.gitbook.io/rememberable)
 
+Bybit screener: https://newcompi.ru/cryptocurrency/exchanges/bybit/market/overview
+
 **Any questions, please get in touch. 🌱**
